@@ -1,7 +1,5 @@
 ### 👋 Bem-vindo ao meu perfil!
 
-<hr style="margin: 0em 0em 1.5em">
-
 [![Email](https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail)](mailto:danielrossinatti15@gmail.com)&nbsp;
 [![Indeed](https://img.shields.io/badge/-Indeed-05122A?style=flat&logo=indeed)](https://profile.indeed.com/?hl=pt_BR&co=BR&from=gnav-homepage&_ga=2.232801303.840665186.1682014064-110041772.1682014064)&nbsp;
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-05122A?style=flat&logo=WhatsApp)](https://wa.me/5521968603176)&nbsp;
@@ -10,8 +8,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=danielalexssander&show_icons=true&theme=transparent)
 
 ## 🛠️ Tecnologias e Ferramentas
-
-<hr style="margin: 0em 0em 1.5em">
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
