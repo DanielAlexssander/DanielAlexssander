@@ -1,7 +1,7 @@
 ### 👋 Bem-vindo ao meu perfil!
 
 [![Email](https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail)](mailto:danielrossinatti15@gmail.com)&nbsp;
-[![Indeed](https://img.shields.io/badge/-linkedin-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/daniel-alexssander-667933148/)&nbsp;
+[![Linkedin](https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/daniel-alexssander-667933148/)&nbsp;
 [![Indeed](https://img.shields.io/badge/-Indeed-05122A?style=flat&logo=indeed)](https://profile.indeed.com/?hl=pt_BR&co=BR&from=gnav-homepage&_ga=2.232801303.840665186.1682014064-110041772.1682014064)&nbsp;
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-05122A?style=flat&logo=WhatsApp)](https://wa.me/5521968603176)&nbsp;
 [![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)](https://discord.gg/apUjj8JRVC)&nbsp;
