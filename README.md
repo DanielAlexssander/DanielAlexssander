@@ -16,6 +16,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
-[📃 Portfólio](https://danielalexssander.github.io/Portfolio/)s
+[📃 Portfólio](https://danielalexssander.github.io/Portfolio/)
 
 ![snake gif](https://github.com/danielalexssander/danielalexssander/blob/output/github-contribution-grid-snake.svg)
