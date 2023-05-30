@@ -6,7 +6,7 @@
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-05122A?style=flat&logo=WhatsApp)](https://wa.me/5521968603176)&nbsp;
 [![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)](https://discord.gg/apUjj8JRVC)&nbsp;
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=danielalexssander&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=danielalexssander&show_icons=true&theme=transparent)
 
 ## 🛠️ Tecnologias e Ferramentas
 
