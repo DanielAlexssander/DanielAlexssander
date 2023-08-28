@@ -19,3 +19,4 @@
 [📃 Portfólio](https://danielalexssander.github.io/Portfolio/)
 
 ![snake gif](https://github.com/danielalexssander/danielalexssander/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/danielalexssander/danielalexssander/blob/output/github-contribution-grid-snake.gif)
