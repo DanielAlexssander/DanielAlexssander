@@ -21,7 +21,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Gera o arquivo snake.svg e snake.gif
+      # Gera os arquivos snake (SVG e GIF)
       - name: Generate GitHub contribution grid snake
         uses: Platane/snk@v3
         with:
@@ -30,7 +30,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif
 
-      # Mostra o status do repositório (debug)
+      # Mostra o status do repositório (para debug)
       - name: Show status
         run: git status
 
