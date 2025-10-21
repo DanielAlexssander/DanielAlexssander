@@ -1,5 +1,5 @@
-# 🐍 GitHub Action: Gera uma "cobra" comendo seus commits no gráfico de contribuições
-# Baseado no workflow de DanielAlexssander e otimizado para GitHub Actions v3+
+# 🐍 GitHub Action: Gera a "cobra" comendo seus commits
+# Versão aprimorada com suporte a temas claro/escuro
 
 name: Generate Snake
 
@@ -21,16 +21,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Gera os arquivos snake (SVG e GIF)
-      - name: Generate GitHub contribution grid snake
+      # Gera os arquivos da cobrinha (SVGs claro e escuro + GIF)
+      - name: Generate GitHub contribution grid snake (light and dark)
         uses: Platane/snk@v3
         with:
           github_user_name: DanielAlexssander
           outputs: |
             dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif
 
-      # Mostra o status do repositório (para debug)
+      # Mostra o status do repositório (debug)
       - name: Show status
         run: git status
 
