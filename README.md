@@ -23,9 +23,9 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart)&nbsp;
-![.Net](https://img.shields.io/badge/-.Net-05122A?style=flat&logo=dotnet)&nbsp;
-![GraphQL](https://img.shields.io/badge/-graphql-05122A?style=flat&logo=graphql)&nbsp;
-![Github](https://img.shields.io/badge/-github-05122A?style=flat&logo=github)&nbsp;
+![.Net](https://img.shields.io/badge/-DotNet-05122A?style=flat&logo=dotnet)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
+![Github](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 
 ## [📃 Portfólio](https://danielalexssander.github.io/Portfolio-React/)
